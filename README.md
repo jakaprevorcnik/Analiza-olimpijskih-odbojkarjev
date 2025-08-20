@@ -1,2 +1,2 @@
 # Analiza-odbojkarjev
-Analiza odbojkarskih igralcev celega sveta
+A projektu analiziram olimpijske odbojkarje vseh časov
