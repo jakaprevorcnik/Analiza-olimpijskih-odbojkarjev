@@ -178,7 +178,5 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # Project specific files
-# You may want to keep or ignore these depending on your needs:
-# *.html  # Uncomment if you don't want to track downloaded HTML files
-# *.csv   # Uncomment if you don't want to track generated CSV files
+ *.csv
 *.html

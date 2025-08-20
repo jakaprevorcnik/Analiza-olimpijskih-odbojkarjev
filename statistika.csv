@@ -1,0 +1,329 @@
+olympic_year,medal_type,country,country_code,player_name
+1964 Tokyo,gold,Soviet Union,URS,Ivans Bugajenkovs
+1964 Tokyo,gold,Soviet Union,URS,Nikolay Burobin
+1964 Tokyo,gold,Soviet Union,URS,Yuri Chesnokov
+1964 Tokyo,gold,Soviet Union,URS,Vazha Kacharava
+1964 Tokyo,gold,Soviet Union,URS,Valeri Kalachikhin
+1964 Tokyo,gold,Soviet Union,URS,Vitali Kovalenko
+1964 Tokyo,gold,Soviet Union,URS,Staņislavs Lugailo
+1964 Tokyo,gold,Soviet Union,URS,Georgy Mondzolevski
+1964 Tokyo,gold,Soviet Union,URS,Yuriy Poyarkov
+1964 Tokyo,gold,Soviet Union,URS,Eduard Sibiryakov
+1964 Tokyo,gold,Soviet Union,URS,Yury Vengerovsky
+1964 Tokyo,gold,Soviet Union,URS,Dmitri Voskoboynikov
+1964 Tokyo,silver,Czechoslovakia,TCH,Milan Čuda
+1964 Tokyo,silver,Czechoslovakia,TCH,Bohumil Golián
+1964 Tokyo,silver,Czechoslovakia,TCH,Zdeněk Humhal
+1964 Tokyo,silver,Czechoslovakia,TCH,Petr Kop
+1964 Tokyo,silver,Czechoslovakia,TCH,Josef Labuda
+1964 Tokyo,silver,Czechoslovakia,TCH,Josef Musil
+1964 Tokyo,silver,Czechoslovakia,TCH,Karel Paulus
+1964 Tokyo,silver,Czechoslovakia,TCH,Boris Perušič
+1964 Tokyo,silver,Czechoslovakia,TCH,Pavel Schenk
+1964 Tokyo,silver,Czechoslovakia,TCH,Václav Šmídl
+1964 Tokyo,silver,Czechoslovakia,TCH,Josef Šorm
+1964 Tokyo,silver,Czechoslovakia,TCH,Ladislav Toman
+1964 Tokyo,bronze,Japan,JPN,Yutaka Demachi
+1964 Tokyo,bronze,Japan,JPN,Tsutomu Koyama
+1964 Tokyo,bronze,Japan,JPN,Sadatoshi Sugahara
+1964 Tokyo,bronze,Japan,JPN,Naohiro Ikeda
+1964 Tokyo,bronze,Japan,JPN,Yasutaka Sato
+1964 Tokyo,bronze,Japan,JPN,Toshiaki Kosedo
+1964 Tokyo,bronze,Japan,JPN,Tokihiko Higuchi
+1964 Tokyo,bronze,Japan,JPN,Masayuki Minami
+1964 Tokyo,bronze,Japan,JPN,Takeshi Tokutomi
+1964 Tokyo,bronze,Japan,JPN,Teruhisa Moriyama
+1964 Tokyo,bronze,Japan,JPN,Yūzo Nakamura
+1964 Tokyo,bronze,Japan,JPN,Katsutoshi Nekoda
+1968 Mexico City,gold,Soviet Union,URS,Eduard Sibiryakov
+1968 Mexico City,gold,Soviet Union,URS,Valeri Kravchenko
+1968 Mexico City,gold,Soviet Union,URS,Volodymyr Byelyayev
+1968 Mexico City,gold,Soviet Union,URS,Yevhen Lapinsky
+1968 Mexico City,gold,Soviet Union,URS,Oļegs Antropovs
+1968 Mexico City,gold,Soviet Union,URS,Vasilijus Matuševas
+1968 Mexico City,gold,Soviet Union,URS,Viktor Mikhalchuk
+1968 Mexico City,gold,Soviet Union,URS,Yuriy Poyarkov
+1968 Mexico City,gold,Soviet Union,URS,Borys Tereshchuk
+1968 Mexico City,gold,Soviet Union,URS,Volodymyr Ivanov
+1968 Mexico City,gold,Soviet Union,URS,Ivans Bugajenkovs
+1968 Mexico City,gold,Soviet Union,URS,Georgy Mondzolevski
+1968 Mexico City,silver,Japan,JPN,Masayuki Minami
+1968 Mexico City,silver,Japan,JPN,Katsutoshi Nekoda
+1968 Mexico City,silver,Japan,JPN,Mamoru Shiragami
+1968 Mexico City,silver,Japan,JPN,Isao Koizumi
+1968 Mexico City,silver,Japan,JPN,Kenji Kimura
+1968 Mexico City,silver,Japan,JPN,Yasuaki Mitsumori
+1968 Mexico City,silver,Japan,JPN,Jungo Morita
+1968 Mexico City,silver,Japan,JPN,Tadayoshi Yokota
+1968 Mexico City,silver,Japan,JPN,Seiji Oko
+1968 Mexico City,silver,Japan,JPN,Tetsuo Satō
+1968 Mexico City,silver,Japan,JPN,Kenji Shimaoka
+1968 Mexico City,silver,Japan,JPN,Naohiro Ikeda
+1968 Mexico City,bronze,Czechoslovakia,TCH,Antonín Procházka
+1968 Mexico City,bronze,Czechoslovakia,TCH,Jiří Svoboda
+1968 Mexico City,bronze,Czechoslovakia,TCH,Lubomír Zajíček
+1968 Mexico City,bronze,Czechoslovakia,TCH,Josef Musil
+1968 Mexico City,bronze,Czechoslovakia,TCH,Josef Smolka
+1968 Mexico City,bronze,Czechoslovakia,TCH,Vladimír Petlák
+1968 Mexico City,bronze,Czechoslovakia,TCH,Petr Kop
+1968 Mexico City,bronze,Czechoslovakia,TCH,František Sokol
+1968 Mexico City,bronze,Czechoslovakia,TCH,Bohumil Golián
+1968 Mexico City,bronze,Czechoslovakia,TCH,Zdeněk Groessl
+1968 Mexico City,bronze,Czechoslovakia,TCH,Pavel Schenk
+1968 Mexico City,bronze,Czechoslovakia,TCH,Drahomír Koudelka
+1972 Munich,gold,Japan,JPN,Yoshihide Fukao
+1972 Munich,gold,Japan,JPN,Kenji Kimura
+1972 Munich,gold,Japan,JPN,Masayuki Minami
+1972 Munich,gold,Japan,JPN,Jungo Morita
+1972 Munich,gold,Japan,JPN,Yūzo Nakamura
+1972 Munich,gold,Japan,JPN,Katsutoshi Nekoda
+1972 Munich,gold,Japan,JPN,Tetsuo Nishimoto
+1972 Munich,gold,Japan,JPN,Yasuhiro Noguchi
+1972 Munich,gold,Japan,JPN,Seiji Oko
+1972 Munich,gold,Japan,JPN,Tetsuo Satō
+1972 Munich,gold,Japan,JPN,Kenji Shimaoka
+1972 Munich,gold,Japan,JPN,Tadayoshi Yokota
+1972 Munich,silver,East Germany,GDR,Horst Hagen
+1972 Munich,silver,East Germany,GDR,Wolfgang Löwe
+1972 Munich,silver,East Germany,GDR,Wolfgang Maibohm
+1972 Munich,silver,East Germany,GDR,Jürgen Maune
+1972 Munich,silver,East Germany,GDR,Horst Peter
+1972 Munich,silver,East Germany,GDR,Eckehard Pietzsch
+1972 Munich,silver,East Germany,GDR,Siegfried Schneider
+1972 Munich,silver,East Germany,GDR,Arnold Schulz
+1972 Munich,silver,East Germany,GDR,Rudi Schumann
+1972 Munich,silver,East Germany,GDR,Rainer Tscharke
+1972 Munich,silver,East Germany,GDR,Wolfgang Webner
+1972 Munich,silver,East Germany,GDR,Wolfgang Weise
+1972 Munich,bronze,Soviet Union,URS,Viktor Borshch
+1972 Munich,bronze,Soviet Union,URS,Yefim Chulak
+1972 Munich,bronze,Soviet Union,URS,Vyacheslav Domani
+1972 Munich,bronze,Soviet Union,URS,Vladimir Kondra
+1972 Munich,bronze,Soviet Union,URS,Valeri Kravchenko
+1972 Munich,bronze,Soviet Union,URS,Yevhen Lapinsky
+1972 Munich,bronze,Soviet Union,URS,Vladimir Patkin
+1972 Munich,bronze,Soviet Union,URS,Yuriy Poyarkov
+1972 Munich,bronze,Soviet Union,URS,Vladimir Putyatov
+1972 Munich,bronze,Soviet Union,URS,Aleksandr Saprykin
+1972 Munich,bronze,Soviet Union,URS,Yuri Starunsky
+1972 Munich,bronze,Soviet Union,URS,Leonid Zayko
+1976 Montreal,gold,Poland,POL,Bronisław Bebel
+1976 Montreal,gold,Poland,POL,Ryszard Bosek
+1976 Montreal,gold,Poland,POL,Wiesław Gawłowski
+1976 Montreal,gold,Poland,POL,Marek Karbarz
+1976 Montreal,gold,Poland,POL,Lech Łasko
+1976 Montreal,gold,Poland,POL,Zbigniew Lubiejewski
+1976 Montreal,gold,Poland,POL,Mirosław Rybaczewski
+1976 Montreal,gold,Poland,POL,Włodzimierz Sadalski
+1976 Montreal,gold,Poland,POL,Edward Skorek
+1976 Montreal,gold,Poland,POL,Włodzimierz Stefański
+1976 Montreal,gold,Poland,POL,Tomasz Wójtowicz
+1976 Montreal,gold,Poland,POL,Zbigniew Zarzycki
+1976 Montreal,silver,Soviet Union,URS,Vladimir Chernyshyov
+1976 Montreal,silver,Soviet Union,URS,Yefim Chulak
+1976 Montreal,silver,Soviet Union,URS,Vladimir Dorokhov
+1976 Montreal,silver,Soviet Union,URS,Aleksandr Ermilov
+1976 Montreal,silver,Soviet Union,URS,Vladimir Kondra
+1976 Montreal,silver,Soviet Union,URS,Oleg Moliboga
+1976 Montreal,silver,Soviet Union,URS,Anatoliy Polishchuk
+1976 Montreal,silver,Soviet Union,URS,Aleksandr Savin
+1976 Montreal,silver,Soviet Union,URS,Pāvels Seļivanovs
+1976 Montreal,silver,Soviet Union,URS,Yuri Starunsky
+1976 Montreal,silver,Soviet Union,URS,Vladimir Ulanov
+1976 Montreal,silver,Soviet Union,URS,Vyacheslav Zaytsev
+1976 Montreal,bronze,Cuba,CUB,Alfredo Figueredo
+1976 Montreal,bronze,Cuba,CUB,Víctor García
+1976 Montreal,bronze,Cuba,CUB,Diego Lapera
+1976 Montreal,bronze,Cuba,CUB,"Leonel Marshall Steward, Sr."
+1976 Montreal,bronze,Cuba,CUB,Ernesto Martínez
+1976 Montreal,bronze,Cuba,CUB,Lorenzo Martínez
+1976 Montreal,bronze,Cuba,CUB,Jorge Pérez
+1976 Montreal,bronze,Cuba,CUB,Antonio Rodríguez
+1976 Montreal,bronze,Cuba,CUB,Carlos Salas
+1976 Montreal,bronze,Cuba,CUB,Victoriano Sarmientos
+1976 Montreal,bronze,Cuba,CUB,Jesús Savigne
+1976 Montreal,bronze,Cuba,CUB,Raúl Vilches
+1980 Moscow,gold,Soviet Union,URS,Vladimir Chernyshyov
+1980 Moscow,gold,Soviet Union,URS,Vladimir Dorokhov
+1980 Moscow,gold,Soviet Union,URS,Aleksandr Ermilov
+1980 Moscow,gold,Soviet Union,URS,Vladimir Kondra
+1980 Moscow,gold,Soviet Union,URS,Valeriy Kryvov
+1980 Moscow,gold,Soviet Union,URS,Fedir Lashchonov
+1980 Moscow,gold,Soviet Union,URS,Viljar Loor
+1980 Moscow,gold,Soviet Union,URS,Oleg Moliboga
+1980 Moscow,gold,Soviet Union,URS,Yury Panchenko
+1980 Moscow,gold,Soviet Union,URS,Aleksandr Savin
+1980 Moscow,gold,Soviet Union,URS,Pāvels Seļivanovs
+1980 Moscow,gold,Soviet Union,URS,Vyacheslav Zaytsev
+1980 Moscow,silver,Bulgaria,BUL,Yordan Angelov
+1980 Moscow,silver,Bulgaria,BUL,Dimitar Dimitrov
+1980 Moscow,silver,Bulgaria,BUL,Stefan Dimitrov
+1980 Moscow,silver,Bulgaria,BUL,Stoyan Gunchev
+1980 Moscow,silver,Bulgaria,BUL,Hristo Iliev
+1980 Moscow,silver,Bulgaria,BUL,Petko Petkov
+1980 Moscow,silver,Bulgaria,BUL,Kaspar Simeonov
+1980 Moscow,silver,Bulgaria,BUL,Hristo Stoyanov
+1980 Moscow,silver,Bulgaria,BUL,Mitko Todorov
+1980 Moscow,silver,Bulgaria,BUL,Tsano Tsanov
+1980 Moscow,silver,Bulgaria,BUL,Emil Valtchev
+1980 Moscow,silver,Bulgaria,BUL,Dimitar Zlatanov
+1980 Moscow,bronze,Romania,ROU,Marius Căta-Chiţiga
+1980 Moscow,bronze,Romania,ROU,Valter Chifu
+1980 Moscow,bronze,Romania,ROU,Laurenţiu Dumănoiu
+1980 Moscow,bronze,Romania,ROU,Günther Enescu
+1980 Moscow,bronze,Romania,ROU,Dan Gîrleanu
+1980 Moscow,bronze,Romania,ROU,Sorin Macavei
+1980 Moscow,bronze,Romania,ROU,Viorel Manole
+1980 Moscow,bronze,Romania,ROU,Florin Mina
+1980 Moscow,bronze,Romania,ROU,Corneliu Oros
+1980 Moscow,bronze,Romania,ROU,Nicolae Pop
+1980 Moscow,bronze,Romania,ROU,Constantin Sterea
+1980 Moscow,bronze,Romania,ROU,Nicu Stoian
+1984 Los Angeles,gold,United States,USA,Douglas Dvorak
+1984 Los Angeles,gold,United States,USA,Dave Saunders
+1984 Los Angeles,gold,United States,USA,Steven Salmons
+1984 Los Angeles,gold,United States,USA,Paul Sunderland
+1984 Los Angeles,gold,United States,USA,Rich Duwelius
+1984 Los Angeles,gold,United States,USA,Steve Timmons
+1984 Los Angeles,gold,United States,USA,Craig Buck
+1984 Los Angeles,gold,United States,USA,Marc Waldie
+1984 Los Angeles,gold,United States,USA,Chris Marlowe
+1984 Los Angeles,gold,United States,USA,c
+1984 Los Angeles,gold,United States,USA,Aldis Berzins
+1984 Los Angeles,gold,United States,USA,Patrick Powers
+1984 Los Angeles,gold,United States,USA,Karch Kiraly
+1984 Los Angeles,silver,Brazil,BRA,Amauri Ribeiro
+1984 Los Angeles,silver,Brazil,BRA,Antônio Carlos Gueiros Ribeiro
+1984 Los Angeles,silver,Brazil,BRA,Bernard Rajzman
+1984 Los Angeles,silver,Brazil,BRA,Bernardo Rocha de Rezende
+1984 Los Angeles,silver,Brazil,BRA,Domingos Lampariello Neto
+1984 Los Angeles,silver,Brazil,BRA,Fernando Roscio de Ávila
+1984 Los Angeles,silver,Brazil,BRA,Marcus Vinícius Simões Freire
+1984 Los Angeles,silver,Brazil,BRA,Montanaro
+1984 Los Angeles,silver,Brazil,BRA,Renan Dal Zotto
+1984 Los Angeles,silver,Brazil,BRA,Rui Campos do Nascimento
+1984 Los Angeles,silver,Brazil,BRA,William Carvalho da Silva
+1984 Los Angeles,silver,Brazil,BRA,Xandó
+1984 Los Angeles,bronze,Italy,ITA,Franco Bertoli
+1984 Los Angeles,bronze,Italy,ITA,Francesco Dall'Olio
+1984 Los Angeles,bronze,Italy,ITA,Giancarlo Dametto
+1984 Los Angeles,bronze,Italy,ITA,Guido De Luigi
+1984 Los Angeles,bronze,Italy,ITA,Giovanni Errichiello
+1984 Los Angeles,bronze,Italy,ITA,Giovanni Lanfranco
+1984 Los Angeles,bronze,Italy,ITA,Andrea Lucchetta
+1984 Los Angeles,bronze,Italy,ITA,Pier Paolo Lucchetta
+1984 Los Angeles,bronze,Italy,ITA,Marco Negri
+1984 Los Angeles,bronze,Italy,ITA,Piero Rebaudengo
+1984 Los Angeles,bronze,Italy,ITA,Paolo Vecchi
+1984 Los Angeles,bronze,Italy,ITA,Fabio Vullo
+1988 Seoul,gold,United States,USA,Craig Buck
+1988 Seoul,gold,United States,USA,Bob Ctvrtlik
+1988 Seoul,gold,United States,USA,Scott Fortune
+1988 Seoul,gold,United States,USA,Karch Kiraly
+1988 Seoul,gold,United States,USA,c
+1988 Seoul,gold,United States,USA,Ricci Luyties
+1988 Seoul,gold,United States,USA,Douglas Partie
+1988 Seoul,gold,United States,USA,Jon Root
+1988 Seoul,gold,United States,USA,Eric Sato
+1988 Seoul,gold,United States,USA,Dave Saunders
+1988 Seoul,gold,United States,USA,Jeff Stork
+1988 Seoul,gold,United States,USA,Troy Tanner
+1988 Seoul,gold,United States,USA,Steve Timmons
+1988 Seoul,silver,Soviet Union,URS,Yaroslav Antonov
+1988 Seoul,silver,Soviet Union,URS,Yuri Cherednik
+1988 Seoul,silver,Soviet Union,URS,Evgeni Krasilnikov
+1988 Seoul,silver,Soviet Union,URS,Andrei Kuznetsov
+1988 Seoul,silver,Soviet Union,URS,Valeri Losev
+1988 Seoul,silver,Soviet Union,URS,Yury Panchenko
+1988 Seoul,silver,Soviet Union,URS,Igor Runov
+1988 Seoul,silver,Soviet Union,URS,Yuri Sapega
+1988 Seoul,silver,Soviet Union,URS,Vladimir Shkurikhin
+1988 Seoul,silver,Soviet Union,URS,Oleksandr Sorokalet
+1988 Seoul,silver,Soviet Union,URS,Raimonds Vilde
+1988 Seoul,silver,Soviet Union,URS,Vyacheslav Zaytsev
+1988 Seoul,bronze,Argentina,ARG,Daniel Castellani
+1988 Seoul,bronze,Argentina,ARG,Daniel Colla
+1988 Seoul,bronze,Argentina,ARG,Hugo Conte
+1988 Seoul,bronze,Argentina,ARG,Juan Cuminetti
+1988 Seoul,bronze,Argentina,ARG,Esteban de Palma
+1988 Seoul,bronze,Argentina,ARG,Alejandro Diz
+1988 Seoul,bronze,Argentina,ARG,Waldo Kantor
+1988 Seoul,bronze,Argentina,ARG,Esteban Martínez
+1988 Seoul,bronze,Argentina,ARG,Raúl Quiroga
+1988 Seoul,bronze,Argentina,ARG,Jon Uriarte
+1988 Seoul,bronze,Argentina,ARG,Carlos Weber
+1988 Seoul,bronze,Argentina,ARG,Claudio Zulianello
+1996 Atlanta,gold,Netherlands,NED,Peter Blangé
+1996 Atlanta,gold,Netherlands,NED,Guido Görtzen
+1996 Atlanta,gold,Netherlands,NED,Rob Grabert
+1996 Atlanta,gold,Netherlands,NED,Henk-Jan Held
+1996 Atlanta,gold,Netherlands,NED,Misha Latuhihin
+1996 Atlanta,gold,Netherlands,NED,Jan Posthuma
+1996 Atlanta,gold,Netherlands,NED,Brecht Rodenburg
+1996 Atlanta,gold,Netherlands,NED,Richard Schuil
+1996 Atlanta,gold,Netherlands,NED,Bas van de Goor
+1996 Atlanta,gold,Netherlands,NED,Mike van de Goor
+1996 Atlanta,gold,Netherlands,NED,Olof van der Meulen
+1996 Atlanta,gold,Netherlands,NED,Ron Zwerver
+1996 Atlanta,silver,Italy,ITA,Lorenzo Bernardi
+1996 Atlanta,silver,Italy,ITA,Vigor Bovolenta
+1996 Atlanta,silver,Italy,ITA,Marco Bracci
+1996 Atlanta,silver,Italy,ITA,Luca Cantagalli
+1996 Atlanta,silver,Italy,ITA,Andrea Gardini
+1996 Atlanta,silver,Italy,ITA,Andrea Giani
+1996 Atlanta,silver,Italy,ITA,Pasquale Gravina
+1996 Atlanta,silver,Italy,ITA,Marco Meoni
+1996 Atlanta,silver,Italy,ITA,Samuele Papi
+1996 Atlanta,silver,Italy,ITA,Andrea Sartoretti
+1996 Atlanta,silver,Italy,ITA,Paolo Tofoli
+1996 Atlanta,silver,Italy,ITA,Andrea Zorzi
+1996 Atlanta,bronze,FR Yugoslavia,YUG,Vladimir Batez
+1996 Atlanta,bronze,FR Yugoslavia,YUG,Dejan Brđović
+1996 Atlanta,bronze,FR Yugoslavia,YUG,Đorđe Đurić
+1996 Atlanta,bronze,FR Yugoslavia,YUG,Andrija Gerić
+1996 Atlanta,bronze,FR Yugoslavia,YUG,Nikola Grbić
+1996 Atlanta,bronze,FR Yugoslavia,YUG,Vladimir Grbić
+1996 Atlanta,bronze,FR Yugoslavia,YUG,Rajko Jokanović
+1996 Atlanta,bronze,FR Yugoslavia,YUG,Slobodan Kovač
+1996 Atlanta,bronze,FR Yugoslavia,YUG,Đula Mešter
+1996 Atlanta,bronze,FR Yugoslavia,YUG,Žarko Petrović
+1996 Atlanta,bronze,FR Yugoslavia,YUG,Željko Tanasković
+1996 Atlanta,bronze,FR Yugoslavia,YUG,Goran Vujević
+2008 Beijing,gold,United States,USA,Lloy Ball
+2008 Beijing,gold,United States,USA,Sean Rooney
+2008 Beijing,gold,United States,USA,David Lee
+2008 Beijing,gold,United States,USA,Richard Lambourne
+2008 Beijing,gold,United States,USA,Reid Priddy
+2008 Beijing,gold,United States,USA,Ryan Millar
+2008 Beijing,gold,United States,USA,Riley Salmon
+2008 Beijing,gold,United States,USA,Thomas Hoff
+2008 Beijing,gold,United States,USA,c
+2008 Beijing,gold,United States,USA,Clayton Stanley
+2008 Beijing,gold,United States,USA,Kevin Hansen
+2008 Beijing,gold,United States,USA,Gabriel Gardner
+2008 Beijing,gold,United States,USA,Scott Touzinsky
+2008 Beijing,silver,Brazil,BRA,Bruno Rezende
+2008 Beijing,silver,Brazil,BRA,Marcelo Elgarten
+2008 Beijing,silver,Brazil,BRA,André Heller
+2008 Beijing,silver,Brazil,BRA,Samuel Fuchs
+2008 Beijing,silver,Brazil,BRA,Gilberto Godoy Filho
+2008 Beijing,silver,Brazil,BRA,c
+2008 Beijing,silver,Brazil,BRA,Murilo Endres
+2008 Beijing,silver,Brazil,BRA,André Nascimento
+2008 Beijing,silver,Brazil,BRA,Sérgio Santos
+2008 Beijing,silver,Brazil,BRA,Anderson Rodrigues
+2008 Beijing,silver,Brazil,BRA,Gustavo Endres
+2008 Beijing,silver,Brazil,BRA,Rodrigo Santana
+2008 Beijing,silver,Brazil,BRA,Dante Amaral
+2008 Beijing,bronze,Russia,RUS,Aleksandr Korneev
+2008 Beijing,bronze,Russia,RUS,Semyon Poltavskiy
+2008 Beijing,bronze,Russia,RUS,Aleksandr Kosarev
+2008 Beijing,bronze,Russia,RUS,Sergey Grankin
+2008 Beijing,bronze,Russia,RUS,Sergey Tetyukhin
+2008 Beijing,bronze,Russia,RUS,Vadim Khamuttskikh
+2008 Beijing,bronze,Russia,RUS,Yury Berezhko
+2008 Beijing,bronze,Russia,RUS,Aleksey Ostapenko
+2008 Beijing,bronze,Russia,RUS,Aleksandr Volkov
+2008 Beijing,bronze,Russia,RUS,Aleksey Verbov
+2008 Beijing,bronze,Russia,RUS,Maxim Mikhaylov
+2008 Beijing,bronze,Russia,RUS,Aleksey Kuleshov

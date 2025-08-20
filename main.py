@@ -162,23 +162,48 @@ def mens_volleyball_data_from_file(filename, directory):
     html_content = read_file_to_string(directory, filename)
     return extract_mens_indoor_volleyball_medalists(html_content)
 
+#----------------------------------------Saving files in csv--------------------------------
 
-# Example usage function
-# def display_volleyball_medalists(filename, directory):
-#     """Display men's indoor volleyball Olympic medalists in a readable format."""
-#     print("=== MEN'S INDOOR VOLLEYBALL OLYMPIC MEDALISTS ===")
-#     volleyball_data = mens_volleyball_data_from_file(filename, directory)
+def write_volleyball_data_to_csv(data, directory, filename):
+    """Write volleyball medalists data to CSV file in a format ready for analysis.
+    Each row represents one player with their Olympic year, medal, country, and name."""
     
-#     for year_data in volleyball_data:
-#         print(f"\n{year_data['year']}:")
-#         print(f"  🥇 Gold: {year_data['gold']['country']} ({year_data['gold']['code']})")
-#         print(f"    Players: {', '.join(year_data['gold']['players'])}")
-#         print(f"  🥈 Silver: {year_data['silver']['country']} ({year_data['silver']['code']})")
-#         print(f"    Players: {', '.join(year_data['silver']['players'])}")
-#         print(f"  🥉 Bronze: {year_data['bronze']['country']} ({year_data['bronze']['code']})")
-#         print(f"    Players: {', '.join(year_data['bronze']['players'])}")
+    os.makedirs(directory, exist_ok=True) # V primeru, da mapa ze obstaja, jo ne bomo ponovno ustvarili
+    path = os.path.join(directory, filename)
     
-#     return volleyball_data
+    with open(path, 'w', newline='', encoding='utf-8') as csvfile:
+        fieldnames = ['olympic_year', 'medal_type', 'country', 'country_code', 'player_name']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        
+        # Write header
+        writer.writeheader()
+        
+        # Process each Olympic year
+        for year_data in data:
+            olympic_year = year_data['year']
+            
+            # Process each medal type (gold, silver, bronze)
+            for medal_type in ['gold', 'silver', 'bronze']:
+                medal_data = year_data[medal_type]
+                country = medal_data['country']
+                country_code = medal_data['code']
+                
+                # Write a row for each player
+                for player_name in medal_data['players']:
+                    writer.writerow({
+                        'olympic_year': olympic_year,
+                        'medal_type': medal_type,
+                        'country': country,
+                        'country_code': country_code,
+                        'player_name': player_name
+                    })
+    
+    print(f"Data successfully written to {path}")
+    total_players = sum(len(year_data['gold']['players']) + len(year_data['silver']['players']) + len(year_data['bronze']['players']) for year_data in data)
+    print(f"Total players written: {total_players}")
+
+
+#---------------------------------------Main function--------------------------------
 
 def main(redownload=True, reparse=True):
     """Funkcija izvede celoten del pridobivanja podatkov:
@@ -195,31 +220,15 @@ def main(redownload=True, reparse=True):
     
     # Podatke preberemo v lepšo obliko (seznam slovarjev)
     if reparse or not os.path.exists(path):
-        pass  # Placeholder for future data processing
-#         data = data_from_file(frontpage_filename, volleyball_directory)
-#         print(data)
-#     # Podatke shranimo v csv datoteko
-#         write_html_data_to_csv(data, volleyball_directory, csv_filename)
-#     else:
-#         print('Datoteka html ze obstaja')
-#     # Dodatno: S pomočjo parametrov funkcije main omogoči nadzor, ali se
-#     # celotna spletna stran ob vsakem zagon prenese (četudi že obstaja)
-#     # in enako za pretvorbo
+        data = mens_volleyball_data_from_file(frontpage_filename, volleyball_directory)
+        print(f"Extracted data for {len(data)} Olympic years")
+        
+        # Podatke shranimo v csv datoteko
+        write_volleyball_data_to_csv(data, volleyball_directory, csv_filename)
+    else:
+        print('Datoteka html ze obstaja')
 
 
 
 if __name__ == '__main__':
-    # Test the extraction with first 2 years
-    # data = mens_volleyball_data_from_file(frontpage_filename, volleyball_directory)
-    # print(f'=== EXTRACTED {len(data)} OLYMPIC YEARS ===')
-    # for i, year_data in enumerate(data[:2]):  # Show first 2 for demo
-    #     print(f'\n{i+1}. {year_data["year"]}:')
-    #     print(f'   🥇 Gold: {year_data["gold"]["country"]} ({year_data["gold"]["code"]})')
-    #     print(f'      Players ({len(year_data["gold"]["players"])}): {", ".join(year_data["gold"]["players"][:3])}...')
-    #     print(f'   🥈 Silver: {year_data["silver"]["country"]} ({year_data["silver"]["code"]})')  
-    #     print(f'      Players ({len(year_data["silver"]["players"])}): {", ".join(year_data["silver"]["players"][:3])}...')
-    #     print(f'   🥉 Bronze: {year_data["bronze"]["country"]} ({year_data["bronze"]["code"]})')
-    #     print(f'      Players ({len(year_data["bronze"]["players"])}): {", ".join(year_data["bronze"]["players"][:3])}...')
-    
-    # Run the main function
     main(False, True)
