@@ -188,7 +188,6 @@ olympic_year,medal_type,country,country_code,player_name
 1984 Los Angeles,gold,United States,USA,Craig Buck
 1984 Los Angeles,gold,United States,USA,Marc Waldie
 1984 Los Angeles,gold,United States,USA,Chris Marlowe
-1984 Los Angeles,gold,United States,USA,c
 1984 Los Angeles,gold,United States,USA,Aldis Berzins
 1984 Los Angeles,gold,United States,USA,Patrick Powers
 1984 Los Angeles,gold,United States,USA,Karch Kiraly
@@ -220,7 +219,6 @@ olympic_year,medal_type,country,country_code,player_name
 1988 Seoul,gold,United States,USA,Bob Ctvrtlik
 1988 Seoul,gold,United States,USA,Scott Fortune
 1988 Seoul,gold,United States,USA,Karch Kiraly
-1988 Seoul,gold,United States,USA,c
 1988 Seoul,gold,United States,USA,Ricci Luyties
 1988 Seoul,gold,United States,USA,Douglas Partie
 1988 Seoul,gold,United States,USA,Jon Root
@@ -253,6 +251,42 @@ olympic_year,medal_type,country,country_code,player_name
 1988 Seoul,bronze,Argentina,ARG,Jon Uriarte
 1988 Seoul,bronze,Argentina,ARG,Carlos Weber
 1988 Seoul,bronze,Argentina,ARG,Claudio Zulianello
+1992 Barcelona,gold,Brazil,BRA,Amauri Ribeiro
+1992 Barcelona,gold,Brazil,BRA,Antônio Gouveia
+1992 Barcelona,gold,Brazil,BRA,Douglas Chiarotti
+1992 Barcelona,gold,Brazil,BRA,Giovane Gávio
+1992 Barcelona,gold,Brazil,BRA,Janelson Carvalho
+1992 Barcelona,gold,Brazil,BRA,Jorge Edson Brito
+1992 Barcelona,gold,Brazil,BRA,Maurício Lima
+1992 Barcelona,gold,Brazil,BRA,Marcelo Negrão
+1992 Barcelona,gold,Brazil,BRA,Paulo André Silva
+1992 Barcelona,gold,Brazil,BRA,André Felipe Ferreira
+1992 Barcelona,gold,Brazil,BRA,Talmo
+1992 Barcelona,gold,Brazil,BRA,Tande
+1992 Barcelona,silver,Netherlands,NED,Edwin Benne
+1992 Barcelona,silver,Netherlands,NED,Peter Blangé
+1992 Barcelona,silver,Netherlands,NED,Ron Boudrie
+1992 Barcelona,silver,Netherlands,NED,Henk-Jan Held
+1992 Barcelona,silver,Netherlands,NED,Martin van der Horst
+1992 Barcelona,silver,Netherlands,NED,Marko Klok
+1992 Barcelona,silver,Netherlands,NED,Olof van der Meulen
+1992 Barcelona,silver,Netherlands,NED,Jan Posthuma
+1992 Barcelona,silver,Netherlands,NED,Avital Selinger
+1992 Barcelona,silver,Netherlands,NED,Martin Teffer
+1992 Barcelona,silver,Netherlands,NED,Ronald Zoodsma
+1992 Barcelona,silver,Netherlands,NED,Ron Zwerver
+1992 Barcelona,bronze,United States,USA,Nick Becker
+1992 Barcelona,bronze,United States,USA,Carlos Briceno
+1992 Barcelona,bronze,United States,USA,Bob Ctvrtlik
+1992 Barcelona,bronze,United States,USA,Scott Fortune
+1992 Barcelona,bronze,United States,USA,Dan Greenbaum
+1992 Barcelona,bronze,United States,USA,Brent Hilliard
+1992 Barcelona,bronze,United States,USA,Bryan Ivie
+1992 Barcelona,bronze,United States,USA,Douglas Partie
+1992 Barcelona,bronze,United States,USA,Bob Samuelson
+1992 Barcelona,bronze,United States,USA,Eric Sato
+1992 Barcelona,bronze,United States,USA,Jeff Stork
+1992 Barcelona,bronze,United States,USA,Steve Timmons
 1996 Atlanta,gold,Netherlands,NED,Peter Blangé
 1996 Atlanta,gold,Netherlands,NED,Guido Görtzen
 1996 Atlanta,gold,Netherlands,NED,Rob Grabert
@@ -289,6 +323,78 @@ olympic_year,medal_type,country,country_code,player_name
 1996 Atlanta,bronze,FR Yugoslavia,YUG,Žarko Petrović
 1996 Atlanta,bronze,FR Yugoslavia,YUG,Željko Tanasković
 1996 Atlanta,bronze,FR Yugoslavia,YUG,Goran Vujević
+2000 Sydney,gold,FR Yugoslavia,YUG,Vladimir Batez
+2000 Sydney,gold,FR Yugoslavia,YUG,Slobodan Kovač
+2000 Sydney,gold,FR Yugoslavia,YUG,Slobodan Boškan
+2000 Sydney,gold,FR Yugoslavia,YUG,Đula Mešter
+2000 Sydney,gold,FR Yugoslavia,YUG,Vasa Mijić
+2000 Sydney,gold,FR Yugoslavia,YUG,Nikola Grbić
+2000 Sydney,gold,FR Yugoslavia,YUG,Vladimir Grbić
+2000 Sydney,gold,FR Yugoslavia,YUG,Andrija Gerić
+2000 Sydney,gold,FR Yugoslavia,YUG,Goran Vujević
+2000 Sydney,gold,FR Yugoslavia,YUG,Ivan Miljković
+2000 Sydney,gold,FR Yugoslavia,YUG,Veljko Petković
+2000 Sydney,gold,FR Yugoslavia,YUG,Igor Vušurović
+2000 Sydney,silver,Russia,RUS,Vadim Khamuttskikh
+2000 Sydney,silver,Russia,RUS,Ruslan Olikhver
+2000 Sydney,silver,Russia,RUS,Valeri Goryushev
+2000 Sydney,silver,Russia,RUS,Igor Shulepov
+2000 Sydney,silver,Russia,RUS,Aleksey Kazakov
+2000 Sydney,silver,Russia,RUS,Evgeni Mitkov
+2000 Sydney,silver,Russia,RUS,Sergey Tetyukhin
+2000 Sydney,silver,Russia,RUS,Roman Yakovlev
+2000 Sydney,silver,Russia,RUS,Konstantin Ushakov
+2000 Sydney,silver,Russia,RUS,Aleksandr Gerasimov
+2000 Sydney,silver,Russia,RUS,Ilya Savelev
+2000 Sydney,silver,Russia,RUS,Aleksey Kuleshov
+2000 Sydney,bronze,Italy,ITA,Andrea Gardini
+2000 Sydney,bronze,Italy,ITA,Marco Meoni
+2000 Sydney,bronze,Italy,ITA,Pasquale Gravina
+2000 Sydney,bronze,Italy,ITA,Luigi Mastrangelo
+2000 Sydney,bronze,Italy,ITA,Paolo Tofoli
+2000 Sydney,bronze,Italy,ITA,Samuele Papi
+2000 Sydney,bronze,Italy,ITA,Andrea Sartoretti
+2000 Sydney,bronze,Italy,ITA,Marco Bracci
+2000 Sydney,bronze,Italy,ITA,Simone Rosalba
+2000 Sydney,bronze,Italy,ITA,Mirko Corsano
+2000 Sydney,bronze,Italy,ITA,Andrea Giani
+2000 Sydney,bronze,Italy,ITA,Alessandro Fei
+2004 Athens,gold,Brazil,BRA,Giovane Gávio
+2004 Athens,gold,Brazil,BRA,André Heller
+2004 Athens,gold,Brazil,BRA,Maurício Lima
+2004 Athens,gold,Brazil,BRA,Gilberto Godoy Filho
+2004 Athens,gold,Brazil,BRA,André Nascimento
+2004 Athens,gold,Brazil,BRA,Sérgio Santos
+2004 Athens,gold,Brazil,BRA,Anderson Rodrigues
+2004 Athens,gold,Brazil,BRA,Nalbert Bitencourt
+2004 Athens,gold,Brazil,BRA,Gustavo Endres
+2004 Athens,gold,Brazil,BRA,Rodrigo Santana
+2004 Athens,gold,Brazil,BRA,Ricardo Garcia
+2004 Athens,gold,Brazil,BRA,Dante Amaral
+2004 Athens,silver,Italy,ITA,Luigi Mastrangelo
+2004 Athens,silver,Italy,ITA,Valerio Vermiglio
+2004 Athens,silver,Italy,ITA,Samuele Papi
+2004 Athens,silver,Italy,ITA,Andrea Sartoretti
+2004 Athens,silver,Italy,ITA,Alberto Cisolla
+2004 Athens,silver,Italy,ITA,Ventzislav Simeonov
+2004 Athens,silver,Italy,ITA,Damiano Pippi
+2004 Athens,silver,Italy,ITA,Andrea Giani
+2004 Athens,silver,Italy,ITA,Alessandro Fei
+2004 Athens,silver,Italy,ITA,Paolo Tofoli
+2004 Athens,silver,Italy,ITA,Paolo Cozzi
+2004 Athens,silver,Italy,ITA,Matej Černič
+2004 Athens,bronze,Russia,RUS,Stanislav Dineykin
+2004 Athens,bronze,Russia,RUS,Sergei Baranov
+2004 Athens,bronze,Russia,RUS,Pavel Abramov
+2004 Athens,bronze,Russia,RUS,Aleksey Kazakov
+2004 Athens,bronze,Russia,RUS,Sergey Tetyukhin
+2004 Athens,bronze,Russia,RUS,Vadim Khamuttskikh
+2004 Athens,bronze,Russia,RUS,Aleksandr Kosarev
+2004 Athens,bronze,Russia,RUS,Konstantin Ushakov
+2004 Athens,bronze,Russia,RUS,Taras Khtey
+2004 Athens,bronze,Russia,RUS,Andrey Egorchev
+2004 Athens,bronze,Russia,RUS,Aleksey Verbov
+2004 Athens,bronze,Russia,RUS,Aleksey Kuleshov
 2008 Beijing,gold,United States,USA,Lloy Ball
 2008 Beijing,gold,United States,USA,Sean Rooney
 2008 Beijing,gold,United States,USA,David Lee
@@ -297,7 +403,6 @@ olympic_year,medal_type,country,country_code,player_name
 2008 Beijing,gold,United States,USA,Ryan Millar
 2008 Beijing,gold,United States,USA,Riley Salmon
 2008 Beijing,gold,United States,USA,Thomas Hoff
-2008 Beijing,gold,United States,USA,c
 2008 Beijing,gold,United States,USA,Clayton Stanley
 2008 Beijing,gold,United States,USA,Kevin Hansen
 2008 Beijing,gold,United States,USA,Gabriel Gardner
@@ -307,7 +412,6 @@ olympic_year,medal_type,country,country_code,player_name
 2008 Beijing,silver,Brazil,BRA,André Heller
 2008 Beijing,silver,Brazil,BRA,Samuel Fuchs
 2008 Beijing,silver,Brazil,BRA,Gilberto Godoy Filho
-2008 Beijing,silver,Brazil,BRA,c
 2008 Beijing,silver,Brazil,BRA,Murilo Endres
 2008 Beijing,silver,Brazil,BRA,André Nascimento
 2008 Beijing,silver,Brazil,BRA,Sérgio Santos
@@ -327,3 +431,148 @@ olympic_year,medal_type,country,country_code,player_name
 2008 Beijing,bronze,Russia,RUS,Aleksey Verbov
 2008 Beijing,bronze,Russia,RUS,Maxim Mikhaylov
 2008 Beijing,bronze,Russia,RUS,Aleksey Kuleshov
+2012 London,gold,Russia,RUS,Nikolay Apalikov
+2012 London,gold,Russia,RUS,Taras Khtey
+2012 London,gold,Russia,RUS,Sergey Grankin
+2012 London,gold,Russia,RUS,Sergey Tetyukhin
+2012 London,gold,Russia,RUS,Aleksandr Sokolov
+2012 London,gold,Russia,RUS,Yury Berezhko
+2012 London,gold,Russia,RUS,Aleksandr Butko
+2012 London,gold,Russia,RUS,Dmitry Muserskiy
+2012 London,gold,Russia,RUS,Dmitry Ilinikh
+2012 London,gold,Russia,RUS,Maxim Mikhaylov
+2012 London,gold,Russia,RUS,Aleksandr Volkov
+2012 London,gold,Russia,RUS,Aleksey Obmochaev
+2012 London,silver,Brazil,BRA,Bruno Rezende
+2012 London,silver,Brazil,BRA,Wallace de Souza
+2012 London,silver,Brazil,BRA,Sidnei dos Santos Júnior
+2012 London,silver,Brazil,BRA,Leandro Vissotto
+2012 London,silver,Brazil,BRA,Gilberto Godoy Filho
+2012 London,silver,Brazil,BRA,Murilo Endres
+2012 London,silver,Brazil,BRA,Sérgio Santos
+2012 London,silver,Brazil,BRA,Thiago Soares Alves
+2012 London,silver,Brazil,BRA,Rodrigo Santana
+2012 London,silver,Brazil,BRA,Lucas Saatkamp
+2012 London,silver,Brazil,BRA,Ricardo Garcia
+2012 London,silver,Brazil,BRA,Dante Amaral
+2012 London,bronze,Italy,ITA,Cristian Savani
+2012 London,bronze,Italy,ITA,Luigi Mastrangelo
+2012 London,bronze,Italy,ITA,Simone Parodi
+2012 London,bronze,Italy,ITA,Samuele Papi
+2012 London,bronze,Italy,ITA,Michal Lasko
+2012 London,bronze,Italy,ITA,Ivan Zaytsev
+2012 London,bronze,Italy,ITA,Dante Boninfante
+2012 London,bronze,Italy,ITA,Dragan Travica
+2012 London,bronze,Italy,ITA,Alessandro Fei
+2012 London,bronze,Italy,ITA,Emanuele Birarelli
+2012 London,bronze,Italy,ITA,Andrea Bari
+2012 London,bronze,Italy,ITA,Andrea Giovi
+2016 Rio de Janeiro,gold,Brazil,BRA,William Arjona
+2016 Rio de Janeiro,gold,Brazil,BRA,Éder Carbonera
+2016 Rio de Janeiro,gold,Brazil,BRA,Wallace de Souza
+2016 Rio de Janeiro,gold,Brazil,BRA,Luiz Felipe Fonteles
+2016 Rio de Janeiro,gold,Brazil,BRA,Evandro Guerra
+2016 Rio de Janeiro,gold,Brazil,BRA,Ricardo Lucarelli
+2016 Rio de Janeiro,gold,Brazil,BRA,Bruno Rezende
+2016 Rio de Janeiro,gold,Brazil,BRA,Lucas Saatkamp
+2016 Rio de Janeiro,gold,Brazil,BRA,Sérgio Santos
+2016 Rio de Janeiro,gold,Brazil,BRA,Maurício Borges Silva
+2016 Rio de Janeiro,gold,Brazil,BRA,Douglas Souza
+2016 Rio de Janeiro,gold,Brazil,BRA,Maurício Souza
+2016 Rio de Janeiro,silver,Italy,ITA,Oleg Antonov
+2016 Rio de Janeiro,silver,Italy,ITA,Emanuele Birarelli
+2016 Rio de Janeiro,silver,Italy,ITA,Simone Buti
+2016 Rio de Janeiro,silver,Italy,ITA,Massimo Colaci
+2016 Rio de Janeiro,silver,Italy,ITA,Simone Giannelli
+2016 Rio de Janeiro,silver,Italy,ITA,Osmany Juantorena
+2016 Rio de Janeiro,silver,Italy,ITA,Filippo Lanza
+2016 Rio de Janeiro,silver,Italy,ITA,Matteo Piano
+2016 Rio de Janeiro,silver,Italy,ITA,Salvatore Rossini
+2016 Rio de Janeiro,silver,Italy,ITA,Daniele Sottile
+2016 Rio de Janeiro,silver,Italy,ITA,Luca Vettori
+2016 Rio de Janeiro,silver,Italy,ITA,Ivan Zaytsev
+2016 Rio de Janeiro,bronze,United States,USA,Matthew Anderson
+2016 Rio de Janeiro,bronze,United States,USA,Micah Christenson
+2016 Rio de Janeiro,bronze,United States,USA,Maxwell Holt
+2016 Rio de Janeiro,bronze,United States,USA,Thomas Jaeschke
+2016 Rio de Janeiro,bronze,United States,USA,David Lee
+2016 Rio de Janeiro,bronze,United States,USA,Reid Priddy
+2016 Rio de Janeiro,bronze,United States,USA,Aaron Russell
+2016 Rio de Janeiro,bronze,United States,USA,Taylor Sander
+2016 Rio de Janeiro,bronze,United States,USA,Erik Shoji
+2016 Rio de Janeiro,bronze,United States,USA,Kawika Shoji
+2016 Rio de Janeiro,bronze,United States,USA,David Smith
+2016 Rio de Janeiro,bronze,United States,USA,Murphy Troy
+2020 Tokyo,gold,France,FRA,Barthélémy Chinenyeze
+2020 Tokyo,gold,France,FRA,Jenia Grebennikov
+2020 Tokyo,gold,France,FRA,Jean Patry
+2020 Tokyo,gold,France,FRA,Benjamin Toniutti
+2020 Tokyo,gold,France,FRA,Kevin Tillie
+2020 Tokyo,gold,France,FRA,Earvin N'Gapeth
+2020 Tokyo,gold,France,FRA,Antoine Brizard
+2020 Tokyo,gold,France,FRA,Stéphen Boyer
+2020 Tokyo,gold,France,FRA,Nicolas Le Goff
+2020 Tokyo,gold,France,FRA,Daryl Bultor
+2020 Tokyo,gold,France,FRA,Trévor Clévenot
+2020 Tokyo,gold,France,FRA,Yacine Louati
+2020 Tokyo,silver,ROC,ROC,Yaroslav Podlesnykh
+2020 Tokyo,silver,ROC,ROC,Artem Volvich
+2020 Tokyo,silver,ROC,ROC,Dmitry Volkov
+2020 Tokyo,silver,ROC,ROC,Ivan Iakovlev
+2020 Tokyo,silver,ROC,ROC,Denis Bogdan
+2020 Tokyo,silver,ROC,ROC,Pavel Pankov
+2020 Tokyo,silver,ROC,ROC,Viktor Poletaev
+2020 Tokyo,silver,ROC,ROC,Maxim Mikhaylov
+2020 Tokyo,silver,ROC,ROC,Egor Kliuka
+2020 Tokyo,silver,ROC,ROC,Ilyas Kurkaev
+2020 Tokyo,silver,ROC,ROC,Igor Kobzar
+2020 Tokyo,silver,ROC,ROC,Valentin Golubev
+2020 Tokyo,bronze,Argentina,ARG,Matías Sánchez
+2020 Tokyo,bronze,Argentina,ARG,Federico Pereyra
+2020 Tokyo,bronze,Argentina,ARG,Cristian Poglajen
+2020 Tokyo,bronze,Argentina,ARG,Facundo Conte
+2020 Tokyo,bronze,Argentina,ARG,Agustín Loser
+2020 Tokyo,bronze,Argentina,ARG,Santiago Danani
+2020 Tokyo,bronze,Argentina,ARG,Sebastián Solé
+2020 Tokyo,bronze,Argentina,ARG,Bruno Lima
+2020 Tokyo,bronze,Argentina,ARG,Ezequiel Palacios
+2020 Tokyo,bronze,Argentina,ARG,Luciano De Cecco
+2020 Tokyo,bronze,Argentina,ARG,Nicolás Méndez
+2020 Tokyo,bronze,Argentina,ARG,Martín Ramos
+2024 Paris,gold,France,FRA,Barthélémy Chinenyeze
+2024 Paris,gold,France,FRA,Jenia Grebennikov
+2024 Paris,gold,France,FRA,Jean Patry
+2024 Paris,gold,France,FRA,Benjamin Toniutti
+2024 Paris,gold,France,FRA,Kévin Tillie
+2024 Paris,gold,France,FRA,Earvin N'Gapeth
+2024 Paris,gold,France,FRA,Antoine Brizard
+2024 Paris,gold,France,FRA,Nicolas Le Goff
+2024 Paris,gold,France,FRA,Trévor Clévenot
+2024 Paris,gold,France,FRA,Yacine Louati
+2024 Paris,gold,France,FRA,Théo Faure
+2024 Paris,gold,France,FRA,Quentin Jouffroy
+2024 Paris,silver,Poland,POL,Łukasz Kaczmarek
+2024 Paris,silver,Poland,POL,Bartosz Kurek
+2024 Paris,silver,Poland,POL,Wilfredo León
+2024 Paris,silver,Poland,POL,Aleksander Śliwka
+2024 Paris,silver,Poland,POL,Grzegorz Łomacz
+2024 Paris,silver,Poland,POL,Jakub Kochanowski
+2024 Paris,silver,Poland,POL,Kamil Semeniuk
+2024 Paris,silver,Poland,POL,Paweł Zatorski
+2024 Paris,silver,Poland,POL,Marcin Janusz
+2024 Paris,silver,Poland,POL,Mateusz Bieniek
+2024 Paris,silver,Poland,POL,Tomasz Fornal
+2024 Paris,silver,Poland,POL,Norbert Huber
+2024 Paris,silver,Poland,POL,Bartłomiej Bołądź
+2024 Paris,bronze,United States,USA,Matt Anderson
+2024 Paris,bronze,United States,USA,Aaron Russell
+2024 Paris,bronze,United States,USA,Jeffrey Jendryk
+2024 Paris,bronze,United States,USA,Torey DeFalco
+2024 Paris,bronze,United States,USA,Micah Christenson
+2024 Paris,bronze,United States,USA,Maxwell Holt
+2024 Paris,bronze,United States,USA,Micah Maʻa
+2024 Paris,bronze,United States,USA,Thomas Jaeschke
+2024 Paris,bronze,United States,USA,Garrett Muagututia
+2024 Paris,bronze,United States,USA,Taylor Averill
+2024 Paris,bronze,United States,USA,David Smith
+2024 Paris,bronze,United States,USA,Erik Shoji
