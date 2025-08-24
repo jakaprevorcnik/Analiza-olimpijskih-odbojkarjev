@@ -35,4 +35,4 @@ def main(redownload=True, reparse=True):
 
 
 if __name__ == '__main__':
-    main(False, False)
+    main(False, True)
