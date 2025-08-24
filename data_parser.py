@@ -50,14 +50,15 @@ def extract_mens_indoor_volleyball_medalists(html_content):
         olympic_year = year_match.group(1)
         
         # Extract the three medal columns (Gold, Silver, Bronze)
-        medal_columns = re.findall(r'<td valign="top">(.*?)</td>', row, re.DOTALL)
+        # Some rows use <td valign="top"> while others use just <td>
+        medal_columns = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
         
-        if len(medal_columns) >= 3:
+        if len(medal_columns) >= 4:  # Need at least 4: year + 3 medal columns
             year_data = {
                 'year': olympic_year,
-                'gold': extract_medalists_from_column(medal_columns[0]),
-                'silver': extract_medalists_from_column(medal_columns[1]), 
-                'bronze': extract_medalists_from_column(medal_columns[2])
+                'gold': extract_medalists_from_column(medal_columns[1]),    # First medal column (after year)
+                'silver': extract_medalists_from_column(medal_columns[2]),  # Second medal column
+                'bronze': extract_medalists_from_column(medal_columns[3])   # Third medal column
             }
             medalists_by_year.append(year_data)
     
@@ -91,8 +92,11 @@ def extract_medalists_from_column(column_html):
     for player in players:
         # Remove parenthetical information like "(c)" for captain
         clean_name = re.sub(r'\s*\([^)]*\)', '', player)
-        if clean_name and clean_name not in cleaned_players:
-            cleaned_players.append(clean_name.strip())
+        clean_name = clean_name.strip()
+        
+        # Skip empty names or single letter names (like standalone "c" for captain)
+        if clean_name and len(clean_name) > 1 and clean_name not in cleaned_players:
+            cleaned_players.append(clean_name)
     
     return {
         'country': country,
